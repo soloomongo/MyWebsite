@@ -11,3 +11,10 @@ html {
     justify-content: center;
 }
 
+img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: auto;
+}
