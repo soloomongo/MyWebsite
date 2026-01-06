@@ -12,9 +12,8 @@ html {
 }
 
 img {
-    display: flex;
-    bottom: 100px;
-    height: 500px;
-    width: auto;
+    display: block;
+    margin: auto;
+    width: 25%;
     justify-content: center;
 }
