@@ -16,4 +16,5 @@ img {
     bottom: 100px;
     height: 500px;
     width: auto;
+    justify-content: center;
 }
