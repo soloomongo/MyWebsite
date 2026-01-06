@@ -1,10 +1,11 @@
-.container {
+html {
     background-color: #540B0E;
 }
 
-#title {
+#heading {
+    display: flex;
+    border: 1px solid black;
     color: #FAEDCD;
     font-family: 'UnifrakturCook', sans-serif;
-
 }
 
